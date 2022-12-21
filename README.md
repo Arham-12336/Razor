@@ -1,6 +1,6 @@
 # Razor
 
-<img src="./razor-logo.png" width=250>
+<div align="center"><img src="./razor-logo.png" width=450></div>
 
 * Razor is the compiler language of diversity and proving that it has many improvements and enhancements to work on.
 * Razor means rapidly and sharply, thought to enquire the meaning as its quality and true meaning.
